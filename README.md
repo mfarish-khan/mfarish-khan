@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfarish-khan
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning flutter and laravel
+- 🌱 I’m currently a student learning flutter and python
 - 📫 How to reach me ...email: mohammedfarish470@gmail.com
 
 <!---
